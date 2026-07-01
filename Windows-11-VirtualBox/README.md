@@ -30,5 +30,4 @@ Adjusted the VM settings and restarted the installation process.
 ## What I Learned
 I learned how to create a virtual machine, install an operating system, and troubleshoot startup problems.
 <img width="1852" height="1156" alt="Screenshot 2026-07-01 182827" src="https://github.com/user-attachments/assets/b1a8329c-b2ba-4fb9-b5cc-ba5f4aabd441" />
-<img width="1918" height="1198" alt="Screenshot 2026-07-01 183442" src="https://github.com/user-attachments/assets/7e44765c-d4e4-4c18-a9ca-b9b8251dbe50" />
 <img width="1917" height="1197" alt="windows 11 Desktop" src="https://github.com/user-attachments/assets/38ee04ed-08ba-4fe6-98bf-ad811742bc91" /><img width="1787" height="1077" alt="windows cpu" src="https://github.com/user-attachments/assets/cdeb2473-9727-4f24-b0e9-09ad50b82e8e" />
