@@ -29,8 +29,17 @@ Adjusted the VM settings and restarted the installation process.
 ## What I Learned
 I learned how to create a virtual machine, install an operating system, and troubleshoot startup problems.
 ## Screenshots
-Screenshot 2026-07-01 182715.png
-Screenshot 2026-07-01 182827.png
-windows 11 Desktop.png
-windows 11 home screen.png
-windows cpu.png
+
+### Windows Desktop
+
+![Windows Desktop](windows 11 Desktop.png)
+
+### Windows Home Screen
+
+![Windows Home Screen](windows 11 home screen.png)
+
+### Windows CPU
+
+![Windows CPU](windows cpu.png)
+
+
